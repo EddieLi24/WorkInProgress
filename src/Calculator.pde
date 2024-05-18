@@ -1,7 +1,7 @@
 // Eddie Li | May 2024 | Calculator
 Button[] numButtons = new Button[10];
 Button[] opButtons = new Button[20];
-Button[] progButtons = new Button[1];
+//Button[] progButtons = new Button[1];
 //Button[] offButtons = new Button[1];
 
 boolean left;
